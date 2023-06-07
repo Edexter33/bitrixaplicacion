@@ -1,5 +1,5 @@
 <?php
-define('C_REST_CLIENT_ID','app.6480c44e371e60.40156064');//Application ID
+define('C_REST_CLIENT_ID','app.6480f4dc8c0412.49356391');//Application ID
 define('C_REST_CLIENT_SECRET','pXpXcUXgmfyX0Q1gf5UgD45Fc6qQL0Gajv9WHI6i5Y1NMCTy7p');//Application key
 // or
 // define('C_REST_WEB_HOOK_URL','https://rest-course.bitrix24.com/rest/1/bv61hmo3otsvvf23/');//url on creat Webhook
